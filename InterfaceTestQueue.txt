@@ -1,0 +1,10 @@
+TD 100mL NonRecon A|20|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|21|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|22|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|23|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|24|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|25|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|26|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|27|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|28|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
+TD 100mL NonRecon A|29|mL|100|mg|||Syringe||Tyler|Ritchot|1234|Room A|||||||||||||||
