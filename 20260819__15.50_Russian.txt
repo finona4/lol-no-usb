@@ -1,0 +1,1 @@
+тестируемый препарат|5|mL|100|mg|||Syringe||Джон|кузнец|265606450312|MM G3 Location 79 A|VALID MESSAGE USING CYRILLIC CHARACTERS|ДЕЙСТВИТЕЛЬНОЕ СООБЩЕНИЕ С ИСПОЛЬЗОВАНИЕМ ЦИРИЛЛИЧЕСКИХ ХАРАКТЕРОВ|Freefield 3|Freefield 4|Freefield 5|Freefield 6|Freefield 7|Freefield 8|Freefield 9|Freefield 10|Freefield 11|Freefield 12|Freefield 13|Freefield 14|Freefield 15
